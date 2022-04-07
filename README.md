@@ -12,11 +12,11 @@ install all project dependencies with npm install
 
 Notable dependencies:
 
-    "chalk": "^4.1.2",
+    "chalk": "^4.1.0",
     
     "lodash": "^4.17.21",
-    
-    "yargs": "^17.1.1"
+   
+    "yargs": "^17.4.0"
     
 
 
